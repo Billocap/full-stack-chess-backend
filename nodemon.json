@@ -1,0 +1,12 @@
+{
+  "ext": ".ts, .js",
+  "ignore": [
+    "node_modules",
+    "dev",
+    ".gitignore",
+    "*.json",
+    "*.lock",
+    "*.log"
+  ],
+  "exec": "ts-node ./index.ts"
+}
